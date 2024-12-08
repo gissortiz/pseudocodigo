@@ -1,2 +1,2 @@
 # pseudocodigo
-Ejemplos de retos en pseudocódigo.
+Ejemplos de retos en pseudocódigo pseint.
